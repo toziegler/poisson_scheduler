@@ -1,0 +1,12 @@
+[package]
+name = "poisson_scheduler"
+version = "0.1.0"
+edition = "2021"
+authors = ["Tobias Ziegler"]
+description = "A library for scheduling work following the poisson process."
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.8"
+rand_distr = "0.4"
