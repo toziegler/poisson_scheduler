@@ -8,8 +8,7 @@ that follows the Poisson distribution.
 The Poisson process is a stochastic model that describes events that occur independently and at a fixed average rate.
 It's a popular model in various fields, including computer science, telecommunications, and finance.
 
-Read more why you want to use it: https://www.scylladb.com/2021/04/22/on-coordinated-omission/
-
+Learn more about the importance and applications of this approach from [this article](https://www.scylladb.com/2021/04/22/on-coordinated-omission/).
 ## Examples
 
 ```
